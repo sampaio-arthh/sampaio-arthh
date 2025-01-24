@@ -4,6 +4,7 @@
 ### Web Development
 * 💡 Html/Css (Intermediate)
 * 💡 Javascript (Intermediate) 📚
+* 💡 Node.js (Beginner)
 * 💡 PHP (Intermediate)
 
 ### General Development
