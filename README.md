@@ -14,6 +14,7 @@
 
 ### Projects
 * [Angel Assessoria](http://angelas.com.br/)
+* Aplicação de logs em .txt (Globo)
 
 <!--
 **sampaio-arthh/sampaio-arthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
