@@ -13,5 +13,5 @@
 * 💡 C (Beginner) 📚
 
 ### Projects
-* [Angel Assessoria](http://angelas.com.br/)
+* [Mini RSA](https://github.com/sampaio-arthh/Mini-RSA)
 * Aplicação de logs em .txt (Globo)
